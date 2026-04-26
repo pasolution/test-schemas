@@ -169,7 +169,7 @@
             },
             "LogSource": {
               "type": "string",
-              "description": "DEPRECATED: Use the `source` of the individual record. OSDU Native Log Source - will be updated for later releases - not to be used yet"
+              "description": "DEPRECATED: Use the `source` of the individual record. OSDU Native Log Source - will be updated for later releases - not to be used yet",
               "deprecated": true
             },
             "LogActivity": {
